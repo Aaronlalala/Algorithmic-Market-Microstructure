@@ -1,0 +1,7 @@
+- Bloomberg terminal in MSFE lab
+- Yubikey
+- IEX market data
+- Deep and tops
+- IEX market data, does not recommend market making strategy.
+- Taking strategy
+- Mid-point allegible order, iceberg order
